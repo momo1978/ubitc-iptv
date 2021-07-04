@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1, Pro Sport 1
+#EXTINF:-1,sport | Pro Sport 1
 https://iptv.popuppush.com/channel1/index.m3u8
-#EXTINF:-1, Pro Sport 2
+#EXTINF:-1,sport | Pro Sport 2
 https://iptv.popuppush.com/channel2/index.m3u8
-#EXTINF:-1, Pro Sport 3
+#EXTINF:-1,sport | Pro Sport 3
 https://iptv.popuppush.com/channel3/index.m3u8
-#EXTINF:-1, Pro Sport 4
+#EXTINF:-1,newes | Pro Sport 4
 https://iptv.popuppush.com/channel4/index.m3u8
-#EXTINF:-1, Pro Sport 5
+#EXTINF:-1,newes | Pro Sport 5
 https://iptv.popuppush.com/channel5/index.m3u8
-#EXTINF:-1, Pro Sport 6
+#EXTINF:-1,newes | Pro Sport 6
 https://iptv.popuppush.com/channel6/index.m3u8
 #EXTINF:-1, Pro Sport 7
 https://iptv.popuppush.com/channel7/index.m3u8
